@@ -1,0 +1,368 @@
+{
+  "ftp://ftp.byethost24.com:21@b24_25656178": {
+    ".override": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "DO NOT UPLOAD FILES HERE": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "htdocs": {
+      ".vscode": {
+        "ftp-kr.json": {
+          "type": "-",
+          "size": 331,
+          "lmtime": 1591094542446,
+          "modified": false
+        },
+        "ftp-kr.sync.cache.json": {
+          "type": "-",
+          "size": 6906,
+          "lmtime": 1591204589504,
+          "modified": false
+        }
+      },
+      "Code.html": {
+        "type": "-",
+        "size": 5217,
+        "lmtime": 1592392606911,
+        "modified": false
+      },
+      "Guitar.html": {
+        "type": "-",
+        "size": 9991,
+        "lmtime": 1591968698057,
+        "modified": false
+      },
+      "Templates": {
+        "index.dwt": {
+          "type": "-",
+          "size": 5020,
+          "lmtime": 0,
+          "modified": false
+        }
+      },
+      "css": {
+        "bootstrap-4.3.1.css": {
+          "type": "-",
+          "size": 192970,
+          "lmtime": 1591968387913,
+          "modified": false
+        },
+        "sample.css": {
+          "type": "-",
+          "size": 2668,
+          "lmtime": 1591967955683,
+          "modified": false
+        }
+      },
+      "diary.html": {
+        "type": "-",
+        "size": 8246,
+        "lmtime": 1591968684258,
+        "modified": false
+      },
+      "files for your website should be uploaded here!": {
+        "type": "-",
+        "size": 0,
+        "lmtime": 0,
+        "modified": false
+      },
+      "htdocs": {
+        "files for your website should be uploaded here!": {
+          "type": "-",
+          "size": 0,
+          "lmtime": 0,
+          "modified": false
+        }
+      },
+      "images": {
+        ".12050697917276.tmp": {
+          "type": "-",
+          "size": 57,
+          "lmtime": 1591949465986,
+          "modified": true
+        },
+        "Carousel_Placeholder.png": {
+          "type": "-",
+          "size": 3705,
+          "lmtime": 0,
+          "modified": false
+        },
+        "Depapepe-風見雞.pdf": {
+          "type": "-",
+          "size": 2323133,
+          "lmtime": 0,
+          "modified": false
+        },
+        "Depapepe-風見雞_page-0001.jpg": {
+          "type": "-",
+          "size": 365705,
+          "lmtime": 0,
+          "modified": false
+        },
+        "Depapepe-風見雞_page-0002.jpg": {
+          "type": "-",
+          "size": 299933,
+          "lmtime": 0,
+          "modified": false
+        },
+        "Garfield.jpg": {
+          "type": "-",
+          "size": 30743,
+          "lmtime": 0,
+          "modified": false
+        },
+        "Jay.jpg": {
+          "type": "-",
+          "size": 49171,
+          "lmtime": 0,
+          "modified": false
+        },
+        "The-Water-is-Wide.pdf": {
+          "type": "-",
+          "size": 123111,
+          "lmtime": 0,
+          "modified": false
+        },
+        "The-Water-is-Wide_page-0001.jpg": {
+          "type": "-",
+          "size": 923506,
+          "lmtime": 0,
+          "modified": false
+        },
+        "The-Water-is-Wide_page-0002.jpg": {
+          "type": "-",
+          "size": 481471,
+          "lmtime": 0,
+          "modified": false
+        },
+        "Twilight.png": {
+          "type": "-",
+          "size": 119593,
+          "lmtime": 0,
+          "modified": false
+        },
+        "album.png": {
+          "type": "-",
+          "size": 6029,
+          "lmtime": 0,
+          "modified": false
+        },
+        "bird.jpg": {
+          "type": "-",
+          "size": 29323,
+          "lmtime": 0,
+          "modified": false
+        },
+        "code.png": {
+          "type": "-",
+          "size": 12743,
+          "lmtime": 0,
+          "modified": false
+        },
+        "cooking.png": {
+          "type": "-",
+          "size": 35221,
+          "lmtime": 0,
+          "modified": false
+        },
+        "diary.png": {
+          "type": "-",
+          "size": 24017,
+          "lmtime": 0,
+          "modified": false
+        },
+        "dust-in-the-wind.pdf": {
+          "type": "-",
+          "size": 311182,
+          "lmtime": 0,
+          "modified": false
+        },
+        "dust-in-the-wind_page-0001.jpg": {
+          "type": "-",
+          "size": 523364,
+          "lmtime": 0,
+          "modified": false
+        },
+        "guitar.png": {
+          "type": "-",
+          "size": 32529,
+          "lmtime": 0,
+          "modified": false
+        },
+        "idea.png": {
+          "type": "-",
+          "size": 20187,
+          "lmtime": 0,
+          "modified": false
+        },
+        "learncode.jpg": {
+          "type": "-",
+          "size": 30977,
+          "lmtime": 1592392533963,
+          "modified": false
+        },
+        "music.png": {
+          "type": "-",
+          "size": 8179,
+          "lmtime": 0,
+          "modified": false
+        },
+        "processing.jpg": {
+          "type": "-",
+          "size": 86308,
+          "lmtime": 1592392147663,
+          "modified": false
+        },
+        "processing3-logo.png": {
+          "type": "-",
+          "size": 141520,
+          "lmtime": 0,
+          "modified": false
+        },
+        "python.png": {
+          "type": "-",
+          "size": 12762,
+          "lmtime": 0,
+          "modified": false
+        },
+        "song.png": {
+          "type": "-",
+          "size": 12663,
+          "lmtime": 0,
+          "modified": false
+        },
+        "what-is-python.png": {
+          "type": "-",
+          "size": 41918,
+          "lmtime": 1592391879906,
+          "modified": false
+        },
+        "winfin.jpg": {
+          "type": "-",
+          "size": 71319,
+          "lmtime": 0,
+          "modified": false
+        },
+        "任賢齊.jpg": {
+          "type": "-",
+          "size": 9189,
+          "lmtime": 0,
+          "modified": false
+        },
+        "海の見える街.pdf": {
+          "type": "-",
+          "size": 293115,
+          "lmtime": 0,
+          "modified": false
+        },
+        "蘭嶼_1.jpg": {
+          "type": "-",
+          "size": 220286,
+          "lmtime": 1591786591126,
+          "modified": false
+        },
+        "蘭嶼_2.jpg": {
+          "type": "-",
+          "size": 162530,
+          "lmtime": 1591787947386,
+          "modified": false
+        },
+        "蘭嶼_3.jpg": {
+          "type": "-",
+          "size": 134299,
+          "lmtime": 1591787954159,
+          "modified": false
+        },
+        "蘭嶼_4.jpg": {
+          "type": "-",
+          "size": 220286,
+          "lmtime": 1591787961652,
+          "modified": false
+        },
+        "蘭嶼_5.jpg": {
+          "type": "-",
+          "size": 240965,
+          "lmtime": 1591787968764,
+          "modified": false
+        },
+        "蘭嶼_6.jpg": {
+          "type": "-",
+          "size": 1696528,
+          "lmtime": 1591949466456,
+          "modified": false
+        },
+        "謝震廷.jpg": {
+          "type": "-",
+          "size": 3508555,
+          "lmtime": 0,
+          "modified": false
+        },
+        "逃跑計畫.jpg": {
+          "type": "-",
+          "size": 89407,
+          "lmtime": 1591181617705,
+          "modified": false
+        },
+        "風景1.jpg": {
+          "type": "-",
+          "size": 1411164,
+          "lmtime": 0,
+          "modified": false
+        },
+        "風景2.jpg": {
+          "type": "-",
+          "size": 1696528,
+          "lmtime": 0,
+          "modified": false
+        },
+        "風景3.jpg": {
+          "type": "-",
+          "size": 1657357,
+          "lmtime": 0,
+          "modified": false
+        }
+      },
+      "index.html": {
+        "type": "-",
+        "size": 5325,
+        "lmtime": 1593178102258,
+        "modified": false
+      },
+      "index_samole.html": {
+        "type": "-",
+        "size": 4740,
+        "lmtime": 1591094859438,
+        "modified": false
+      },
+      "js": {
+        "bootstrap-4.3.1.js": {
+          "type": "-",
+          "size": 131637,
+          "lmtime": 0,
+          "modified": false
+        },
+        "jquery-3.3.1.min.js": {
+          "type": "-",
+          "size": 86926,
+          "lmtime": 0,
+          "modified": false
+        },
+        "popper.min.js": {
+          "type": "-",
+          "size": 21004,
+          "lmtime": 0,
+          "modified": false
+        }
+      },
+      "新增資料夾": {}
+    }
+  },
+  "$version": 1
+}

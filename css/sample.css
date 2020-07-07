@@ -1,0 +1,149 @@
+@charset "utf-8";
+/* CSS Document */
+
+  body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+  }
+  p {font-size: 16px;}
+  .margin {
+    margin-bottom: 45px;
+    font-family: "Adobe 繁黑體 Std B";
+}
+  .bg-1 { 
+    background-color: #1abc9c; /* Green */
+    color: #ffffff;
+  }
+  .bg-2 { 
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+  }
+  .bg-3 { 
+    background-color: #ffffff; /* White */
+    color: #555555;
+  }
+  .bg-4 { 
+    background-color: #2f2f2f; /* Black Gray */
+    color: #fff;
+  }
+  .bg-5 {
+	background-color: #5CAED0  
+    }
+  .bg-6 {
+      background-color:  #FFBA6D
+        }
+  .bg-7{
+        background-color: azure
+      }
+  .bg-8{
+        background-color: #f0ee78;
+      }
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+    color: #1abc9c !important;
+  }
+  footer{
+    margin: 0;
+    padding: 0;
+    background: #262626;
+  }
+ .icon-a {
+    display: flex;
+    position: relative;
+    /* border: 3px solid #5CAED0; */
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+ }
+ .icon-b{
+   list-style: none;
+ }
+ .icon-c {
+   width: 80px;
+   height: 80px;
+   background: #fff;
+   text-align: center;
+   line-height: 80px;
+   font-size: 35px;
+   margin: 0 10px;
+   display: block;
+   border-radius: 50%;
+   position: relative;
+   overflow: hidden;
+   border: 3px solid #474e5d;
+   z-index: 1;
+ }
+ .icon-c .fa {
+  position: relative;
+  color: #262626;
+  transition: .5s;
+ }
+ .icon-c:hover .fa {
+  transform: rotateY(360deg);
+  color: #fff;
+ }
+ .icon-c:before {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #f00;
+  transition: .5s;
+  z-index: 2;
+ }
+ .icon-c:hover:before {
+   top: 0;
+ }
+ .icon-b:nth-child(1) .icon-c::before{
+   background: #3b5999;
+ }
+ .icon-b:nth-child(2) .icon-c::before{
+  background: #e4405f;
+}
+.icon-b:nth-child(3) .icon-c::before{
+  background: #131418;
+}
+.icon-b:nth-child(4) .icon-c::before{
+  background: #cd201f;
+}
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.swallow{
+  font-size: 100%;
+  color: #555555;
+}
+.line{
+  color: #3b5999;
+  
+}
+
+
+

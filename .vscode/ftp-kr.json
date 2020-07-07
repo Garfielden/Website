@@ -1,0 +1,16 @@
+{
+    "host": "ftp.byethost24.com",
+    "username": "b24_25656178",
+    "password": "a2878788",
+    "remotePath": "/htdocs/",
+    "protocol": "ftp",
+    "port": 21,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
